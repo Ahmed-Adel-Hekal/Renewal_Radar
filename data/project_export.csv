@@ -1,0 +1,61 @@
+project_id,client_name,services,scope,last_delivery_date,delivery_status
+P2001,Acme Inc.,Design + Development,Product page redesign,2026-08-05,On track
+P2002,NIKE,CRO + Design + Development,Shopify theme improvements,2026-07-25,On track
+P2003,GLOW SKIN,Retention,Analytics and CRO audit,2026-06-20,Active
+P2004,Adidas AG,CRO,Lifecycle email and SMS,2026-07-30,active
+P2005,BlueBottle,Retention + Design,Analytics and CRO audit,2026-08-02,On track
+P2006,Northstar Co.,CRO + Design,Checkout UX improvements,2026-08-29,On track
+P2007,River and Reed,Retention + Design,Landing page optimization,2026-07-06,On track
+P2008,Everlane Inc.,Design + Development,Landing page optimization,2026-08-02,Active
+P2009,SUN & SOIL,CRO,Retention audit and flows,2026-08-22,Active
+P2010,PeakCoffee,Retention + Design,Experiment backlog and implementation,2026-06-23,active
+P2011,Urban Pet Ltd.,Retention,Shopify theme improvements,2026-08-21,Active
+P2012,LunaHome,Design + Development,Checkout UX improvements,2026-08-14,active
+P2013,Marlow Co,CRO,Lifecycle email and SMS,2026-07-07,At risk
+P2014,NORTHWIND,Design + Development,Retention audit and flows,2026-07-30,At risk
+P2015,KINDRED GOODS,CRO + Design,Landing page optimization,2026-07-02,At risk
+P2016,Oak & Pine LLC,CRO,Analytics and CRO audit,2026-06-18,Active
+P2017,Velora Inc.,Design + Development,Experiment backlog and implementation,2026-07-27,active
+P2018,BRIGHT LEAF,Retention,Product page redesign,2026-07-13,At risk
+P2019,Summit Supply Co.,Retention + Design,Experiment backlog and implementation,2026-07-22,Active
+P2020,CEDAR & COAST,CRO + Retention,Lifecycle email and SMS,2026-08-12,At risk
+P2021,Mosaic Inc.,Retention,Experiment backlog and implementation,2026-08-10,At risk
+P2022,DRIFTWOOD,Design + Development,Retention audit and flows,2026-08-03,At risk
+P2023,Aster Inc.,Retention + Design,Landing page optimization,2026-08-23,Active
+P2024,GoodDay,CRO + Design + Development,Landing page optimization,2026-08-24,Active
+P2025,WILD FERN,CRO + Design,Landing page optimization,2026-08-09,On track
+P2026,Field Stone,CRO + Design + Development,Experiment backlog and implementation,2026-08-28,Active
+P2027,Hearth Ltd.,CRO + Design,Experiment backlog and implementation,2026-08-25,At risk
+P2028,KITE & KIN,CRO + Design,Checkout UX improvements,2026-08-13,Active
+P2029,MODERN PANTRY,Development,Conversion optimization and testing,2026-07-15,active
+P2030,Orchid Ltd,Design + Development,Lifecycle email and SMS,2026-07-15,On track
+P2031,PINE & PEAK,CRO + Design,Product page redesign,2026-08-09,active
+P2032,SOLACE,CRO,Shopify theme improvements,2026-07-18,On track
+P2033,JuniperLane,Design + Development,Landing page optimization,2026-08-09,Active
+P2034,FABLE,CRO,Analytics and CRO audit,2026-08-01,active
+P2035,Harbour and Home,Development,Landing page optimization,2026-07-31,active
+P2036,Lumen Inc.,Design + Development,Checkout UX improvements,2026-07-18,At risk
+P2037,True North Ltd.,CRO + Retention,Retention audit and flows,2026-06-25,On track
+P2038,CRAFT & COMMON,Development,Conversion optimization and testing,2026-08-15,At risk
+P2039,Ember Inc.,CRO + Retention,Conversion optimization and testing,2026-08-16,On track
+P2040,VISTA MARKET,Development,Checkout UX improvements,2026-06-25,Active
+P2041,ACME,CRO + Design,Checkout UX improvements,2026-07-03,At risk
+P2042,Glow Skin,Retention,Product page redesign,2026-08-13,Active
+P2043,NIKE,CRO + Retention,Checkout UX improvements,2026-08-29,At risk
+P2044,BlueBottle,Development,Experiment backlog and implementation,2026-07-17,At risk
+P2045,North Wind,CRO,Product page redesign,2026-08-06,On track
+P2046,Mosaic,Design + Development,Lifecycle email and SMS,2026-07-18,On track
+P2047,Harbour and Home,Retention + Design,Retention audit and flows,2026-07-18,Active
+P2048,TrueNorth,CRO,Landing page optimization,2026-07-28,On track
+P2049,"Acme, Inc",Development,Checkout UX improvements,2026-08-09,On track
+P2050,GLOW SKIN,CRO,Landing page optimization,2026-07-25,Active
+P2051,Nike Inc.,Design,Product page redesign,2026-08-03,At risk
+P2052,BLUE BOTTLE CO.,Retention,Checkout UX improvements,2026-07-17,At risk
+P2053,Northstar Co.,CRO + Design,Shopify theme improvements,2026-07-21,At risk
+P2054,River and Reed,Retention,Landing page optimization,2026-08-04,At risk
+P2055,EVERLANE,Development,Conversion optimization and testing,2026-08-10,On track
+P2056,SUN & SOIL,CRO,Product page redesign,2026-08-02,At risk
+P2057,Peak Coffee Co.,Retention,Retention audit and flows,2026-07-31,On track
+P2058,UrbanPet,Design,Analytics and CRO audit,2026-07-17,Active
+P2059,LunaHome,Development,Experiment backlog and implementation,2026-07-30,At risk
+P2060,KindredGoods,CRO + Retention,Shopify theme improvements,2026-07-18,Active
